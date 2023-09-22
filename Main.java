@@ -1,7 +1,8 @@
 package com.company;
 
 
-import java.util.LinkedHashMap;
+import java.util.LinkedHashMap; //for O(1)
+
 
 public class Main {
     public int singleNumber(int[] nums) {
